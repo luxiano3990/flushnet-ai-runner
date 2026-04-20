@@ -6,10 +6,6 @@ The fastest way to connect a machine, launch a task, watch execution, and get th
 
 Use your own machines or secure sandboxes. Run tasks in parallel. Control everything from the dashboard, API, or AI assistant.
 
-Logged in as: marchese.luciano@gmail.com · Owner ID: user_931d4e7f · Plan: pending
-
-[Open dashboard](https://www.flushnet.net/api/dashboard/) · [Open entitlement admin](https://www.flushnet.net/api/dashboard/) · [Install agent](https://www.flushnet.net/api/installer.php) · [View docs](https://www.flushnet.net/api/docs.php) · [Open AI Runner Chat](https://chatgpt.com/g/g-69c4cd2538d0819185bb5e3a2dde197d-ai-runner)
-
 ## Start with the AI Runner Chat in ChatGPT
 
 For the easiest setup, begin in the custom AI Runner chat, then link it to your Flushnet account with an access code from the dashboard.
