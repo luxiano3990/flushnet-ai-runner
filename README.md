@@ -4,9 +4,13 @@
 
 # Flushnet AI Runner
 
-![Flushnet AI Runner](assets/flushnet-ai-runner-home.png)
+**Run browser, terminal, and AI tasks across your machines and remote nodes from one place.**
 
-Flushnet AI Runner lets you run browser automation, terminal commands, file operations, and AI workflows across local machines, remote nodes, and sandboxes.
+The fastest way to connect a machine, launch a task, watch execution, and get the result from one operator layer.
+
+Use your own machines or secure sandboxes. Run tasks in parallel. Control everything from the dashboard, API, or AI assistant.
+
+![Flushnet AI Runner](assets/flushnet-ai-runner-home.png)
 
 ## Get started
 
