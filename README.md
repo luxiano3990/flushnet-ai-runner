@@ -1,5 +1,7 @@
 # Flushnet AI Runner
 
+![Flushnet AI Runner](assets/flushnet-ai-runner-home.png)
+
 Flushnet AI Runner lets you run browser automation, terminal commands, file operations, and AI workflows across local machines, remote nodes, and sandboxes.
 
 ## Get started
