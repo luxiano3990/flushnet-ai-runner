@@ -4,11 +4,19 @@
 
 # Flushnet AI Runner
 
-**Run browser, terminal, and AI tasks across your machines and remote nodes from one place.**
+## New user quick start
 
-The fastest way to connect a machine, launch a task, watch execution, and get the result from one operator layer.
+### Start with the AI Runner Chat in ChatGPT
 
-Use your own machines or secure sandboxes. Run tasks in parallel. Control everything from the dashboard, API, or AI assistant.
+For the easiest setup, begin in the custom AI Runner chat, then link it to your Flushnet account with an access code from the dashboard.
+
+1. Open [AI Runner Chat](https://www.flushnet.net/api/gpt.php) in ChatGPT.
+2. [Log in](https://www.flushnet.net/api/login.php) or create your Flushnet account.
+3. Open [Dashboard](https://www.flushnet.net/api/dashboard/) and then **Generate Access Code**.
+4. Paste the access code into the AI Runner chat when asked.
+5. Install your local runtime or use sandbox mode, then ask the chat to list nodes and run your first task.
+
+[Open AI Runner Chat](https://www.flushnet.net/api/gpt.php) · [Generate Access Code](https://www.flushnet.net/api/dashboard/) · [See onboarding examples](https://www.flushnet.net/api/docs.php)
 
 ![Flushnet AI Runner](assets/flushnet-ai-runner-home.png)
 
