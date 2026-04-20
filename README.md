@@ -10,13 +10,13 @@
 
 For the easiest setup, begin in the custom AI Runner chat, then link it to your Flushnet account with an access code from the dashboard.
 
-1. Open [AI Runner Chat](https://www.flushnet.net/api/gpt.php) in ChatGPT.
+1. Open [AI Runner Chat](https://chatgpt.com/g/g-69c4cd2538d0819185bb5e3a2dde197d-ai-runner) in ChatGPT.
 2. [Log in](https://www.flushnet.net/api/login.php) or create your Flushnet account.
 3. Open [Dashboard](https://www.flushnet.net/api/dashboard/) and then **Generate Access Code**.
 4. Paste the access code into the AI Runner chat when asked.
 5. Install your local runtime or use sandbox mode, then ask the chat to list nodes and run your first task.
 
-[Open AI Runner Chat](https://www.flushnet.net/api/gpt.php) · [Generate Access Code](https://www.flushnet.net/api/dashboard/) · [See onboarding examples](https://www.flushnet.net/api/docs.php)
+[Open AI Runner Chat](https://chatgpt.com/g/g-69c4cd2538d0819185bb5e3a2dde197d-ai-runner) · [Generate Access Code](https://www.flushnet.net/api/dashboard/) · [See onboarding examples](https://www.flushnet.net/api/docs.php)
 
 ![Flushnet AI Runner](assets/flushnet-ai-runner-home.png)
 
