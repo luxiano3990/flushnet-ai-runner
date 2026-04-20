@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/flushnet-ai-runner-image.jpg" alt="Flushnet AI Runner Logo" width="160">
+</p>
+
 # Flushnet AI Runner
 
 ![Flushnet AI Runner](assets/flushnet-ai-runner-home.png)
