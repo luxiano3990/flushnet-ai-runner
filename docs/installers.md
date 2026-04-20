@@ -35,12 +35,6 @@ FlushnetRuntimeLauncher.exe status
 FlushnetRuntimeLauncher.exe stop
 ```
 
-## Recommended README callout
-
-Use a short callout near the top of the README such as:
-
-> Install AI Runner on your machine: https://www.flushnet.net/api/installer.php
-
 Related:
 - [Docs and help](docs-and-help.md)
 - [Official links](links.md)
