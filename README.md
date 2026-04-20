@@ -125,4 +125,32 @@ Read, write, list, move, and synchronize files across connected environments.
 Turn natural-language requests into real actions across browser, terminal, files, apps, and connected services.
 
 ### Multi-node and parallel execution
-Distribute c
+Distribute commands and workloads across one machine or many nodes from the same control layer.
+
+### Sandbox and VM workflows
+Test tasks in a safer browser-based sandbox or virtualized environment before moving to native execution.
+
+### AI and batch jobs
+Launch AI jobs, repeated tasks, repository jobs, and broader workflows from the same operator layer.
+
+## Repository structure
+
+```text
+ai-runner/
+├─ README.md
+├─ docs/
+│  ├─ overview.md
+│  ├─ links.md
+│  ├─ installers.md
+│  ├─ docs-and-help.md
+│  ├─ platform-vs-app.md
+│  ├─ use-cases.md
+│  └─ pricing.md
+```
+
+## Repository positioning
+
+Use this distinction consistently:
+
+- **AI Runner** = app / product / user-facing operator layer
+- **Flushnet API** = platform / transport / runtime / dashboard / connectivity layer
