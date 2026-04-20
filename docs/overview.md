@@ -6,15 +6,9 @@ AI Runner is the official app at:
 
 https://www.flushnet.net/api/airunner
 
-It is presented as a way to run browser, terminal, and AI tasks across your own machines and remote nodes from one place.
+It is an AI app to run browser, terminal, and AI tasks across your own machines and remote nodes from one place.
 
 ## Core positioning
-
-The public positioning centers on:
-
-- using your own machines or secure sandboxes
-- running tasks in parallel
-- controlling everything from the dashboard, API, or AI assistant
 
 AI Runner turns requests into real actions across:
 
@@ -27,7 +21,7 @@ AI Runner turns requests into real actions across:
 
 ## Practical usage areas
 
-It is positioned for practical execution tasks such as:
+It is used for practical execution tasks such as:
 
 - organizing files
 - automating workflows
