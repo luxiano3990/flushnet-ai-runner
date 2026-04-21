@@ -1,4 +1,5 @@
-# Flushnet AI Runner - Desktop and Browser Automation AI Agent
+# Flushnet AI Runner - The AI automation Agent that runs your computer and browser
+
 
 Run browser, terminal, Apps, and AI tasks across your machines and remote nodes from one place.
 
