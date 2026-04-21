@@ -108,7 +108,7 @@ Built for practical execution: browser automation, terminal tasks, multimodal AI
 | AI Gateway                                | Yes (private/internal)            | No             | No       | Yes      | No        |
 | AICRON                                    | Yes (private/internal)            | No             | No       | No       | No        |
 
-## Positioning summary
+## Summary
 
 * **AI Runner**: strongest for operational automation plus autonomous, agentic long-running tasks across desktop, browser, files, messaging, calls, devices, security/investigation workflows like IoC integration, private orchestration, parallel and distributed workflow management, and app or script building.
 * **Claude Desktop**: strongest as a Claude-first desktop assistant with extensions, local workflows, and some agentic computer use.
