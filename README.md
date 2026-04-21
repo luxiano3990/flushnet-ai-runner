@@ -61,3 +61,74 @@ Built for practical execution: browser automation, terminal tasks, multimodal AI
 - Third-party and open-source app integration
 - Sandbox and virtual machine mode
 - RAG and persistent long-ter
+
+
+
+
+# AI Runner vs Claude Desktop vs Manus AI vs OpenClaw vs OpenHands
+
+**Legend**
+
+* **Yes** = publicly documented
+* **Yes (private/internal)** = confirmed available, but not publicly documented
+* **Partial** = available in some modes, plans, or indirect workflows
+* **No** = not part of the product
+* **Unknown** = not enough reliable information
+
+| Feature                                   | AI Runner                         | Claude Desktop | Manus AI | OpenClaw | OpenHands |
+| ----------------------------------------- | --------------------------------- | -------------- | -------- | -------- | --------- |
+| Desktop app / desktop execution           | Yes                               | Yes            | Yes      | Partial  | Partial   |
+| Browser automation                        | Yes                               | Partial        | Yes      | Yes      | Yes       |
+| Terminal / shell execution                | Yes                               | Partial        | Partial  | Yes      | Yes       |
+| Local file access                         | Yes                               | Yes            | Yes      | Yes      | Yes       |
+| Sandboxed / isolated environment          | Yes                               | Unknown        | Yes      | Partial  | Yes       |
+| Remote nodes / execute on another machine | Yes                               | Unknown        | Unknown  | Yes      | Partial   |
+| Parallel workflow execution               | Yes                               | Partial        | Partial  | Partial  | Yes       |
+| Distributed workflow management           | Yes                               | Unknown        | Partial  | Yes      | Partial   |
+| Telegram support                          | Yes                               | No             | No       | Yes      | No        |
+| WhatsApp support                          | Yes                               | No             | No       | Yes      | No        |
+| Calendar actions                          | Yes                               | Partial        | Yes      | Partial  | Unknown   |
+| Email workflows                           | Yes                               | Partial        | Yes      | Partial  | Unknown   |
+| Phone / call flows                        | Yes                               | No             | No       | Partial  | No        |
+| IoT / connected device control            | Yes                               | No             | No       | Partial  | No        |
+| IoC integration                           | Yes                               | Unknown        | Unknown  | Partial  | Unknown   |
+| Scheduling / cron / recurring automations | Yes (private/internal) via AICRON | Yes            | Yes      | Yes      | Partial   |
+| API / programmatic access                 | Yes                               | Yes            | Yes      | Yes      | Yes       |
+| GitHub integration                        | Yes                               | Partial        | Partial  | Partial  | Yes       |
+| Multi-model / model-agnostic              | Yes                               | No             | Unknown  | Yes      | Yes       |
+| Open source                               | Unknown                           | No             | Unknown  | Yes      | Yes       |
+| Self-hosted                               | Partial                           | No             | Unknown  | Yes      | Yes       |
+| Build scripts                             | Yes                               | Partial        | Yes      | Partial  | Yes       |
+| Build web apps                            | Yes                               | Partial        | Yes      | Partial  | Partial   |
+| Build desktop apps                        | Yes                               | Partial        | Yes      | Partial  | Partial   |
+| Build mobile apps                         | Yes                               | Partial        | Unknown  | Partial  | Partial   |
+| Autonomous agentic long-running tasks     | Yes                               | Yes            | Yes      | Partial  | Yes       |
+| Built-in slide generation                 | Unknown                           | Unknown        | Yes      | Unknown  | No        |
+| AI Gateway                                | Yes (private/internal)            | No             | No       | Yes      | No        |
+| AICRON                                    | Yes (private/internal)            | No             | No       | No       | No        |
+
+## Positioning summary
+
+* **AI Runner**: strongest for operational automation plus autonomous, agentic long-running tasks across desktop, browser, files, messaging, calls, devices, security/investigation workflows like IoC integration, private orchestration, parallel and distributed workflow management, and app or script building.
+* **Claude Desktop**: strongest as a Claude-first desktop assistant with extensions, local workflows, and some agentic computer use.
+* **Manus AI**: strongest for delegated autonomous execution and deliverables like reports, slides, and app or website-style outputs.
+* **OpenClaw**: strongest as an open-source, self-hosted gateway and automation layer with channel integrations and remote execution.
+* **OpenHands**: strongest as an open-source software engineering agent platform for autonomous coding tasks, with CLI, web UI, self-hosting, sandboxed execution, browser plus bash tools, GitHub-oriented workflows, and an agent SDK.
+
+## Unique or standout features
+
+* **AI Runner**: private/internal orchestration layers like **AI Gateway** and **AICRON**, cross-channel operations including messaging, calls, IoT, and distributed workflow management.
+* **Claude Desktop**: strongest native Claude-centered desktop assistant experience with Anthropic’s ecosystem and extensions.
+* **Manus AI**: strongest packaged autonomous deliverable flow, especially for slides, reports, and polished end outputs.
+* **OpenClaw**: strongest open-source gateway pattern for connecting channels, automation, and remote execution.
+* **OpenHands**: standout strengths are its **software-agent SDK**, **ephemeral or local workspaces**, **CLI + web UI + cloud/self-hosted deployment mix**, and **GitHub workflow support** for software engineering tasks.
+
+## Notes
+
+* For **AI Gateway** and **AICRON**, the status is marked **Yes (private/internal)** because they exist but are not publicly documented.
+* **IoC integration** is included for AI Runner based on your confirmed product information.
+* **Parallel workflow execution** and **distributed workflow management** are included for AI Runner based on your confirmed product information.
+* **GitHub integration** is included for AI Runner based on your confirmed product information.
+* **Unknown** does not mean a feature is absent. It means there is not enough reliable public information to mark it confidently.
+* **Partial** means the feature exists in some plans, modes, or adjacent tooling, but is not a simple core feature in every setup.
+
